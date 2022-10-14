@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jubershaikh2307@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MrdIF9x3xdriQ54jcwmAIctjvafLfjXs/view?usp=sharing](https://drive.google.com/file/d/1MrdIF9x3xdriQ54jcwmAIctjvafLfjXs/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1MrdIF9x3xdriQ54jcwmAIctjvafLfjXs/view?usp=sharing">Resume</a>[]
 
 - ⚡ Fun fact **If the code is running don't touch it**
 
