@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jubershaikh2307@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1MrdIF9x3xdriQ54jcwmAIctjvafLfjXs/view?usp=sharing"> <img height="20" width="20" src="https://freeiconshop.com/wp-content/uploads/edd/download-flat.png"/>Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1MrdIF9x3xdriQ54jcwmAIctjvafLfjXs/view?usp=sharing"> <img  height="20" width="20" margin-top="5px" src="https://freeiconshop.com/wp-content/uploads/edd/download-flat.png"/>Resume</a>
 
 - ⚡ Fun fact **If the code is running don't touch it**
 
