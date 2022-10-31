@@ -3,9 +3,9 @@
 </div>
 
 
-<h1 align="center">Hey!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Shravani Mishra <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
+<h1 align="center">Hey!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Juber Shaikh <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShravaniMishra&label=Profile%20views&color=0e75b6&style=flat" alt="ShravaniMishra" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jubershaikh2307&label=Profile%20views&color=0e75b6&style=flat" alt="Jubershaikh2307" /> </p>
 
 <h3 align="center">A passionate Full Stack Developer in making</h3>
 
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=hi! I am Shravani Mishra 🏽; I am a Full-stack %20web%20developer 🏻‍💻; interested in Sports 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=hi! I am Juber Shaikh 🏽; I am a Full-stack %20web%20developer 🏻‍💻; interested in Sports 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 
@@ -26,13 +26,13 @@
 
 - 📄 Check out my [Resume]
 
-- 💻 Know more about me [Portfolio](https://ShravaniMishra.github.io/)
+- 💻 Know more about me [Portfolio](https://jubershaikh2307.github.io/)
 
-- 💻 All of my projects are available at **[My Github Repositories](https://github.com/ShravaniMishra?tab=repositories)**
+- 💻 All of my projects are available at **[My Github Repositories](https://github.com/Jubershaikh2307?tab=repositories)**
 
 - 💬 Ask me about HTML, CSS, JavaScript, React & DSA
 
-- 📫 How to reach me shravniguddi@gmail.com
+- 📫 How to reach me jubershaikh2307@gmail.com
 
 - ⚡ Fun fact If Brain is not equal to empty!!! then keep coding else order a coffee
 
@@ -44,8 +44,7 @@
 <br />
 
 <p align="center">
-<a href="https://twitter.com/SHRAVANIMISHR4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shravani-mishra-3393651b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shravani-Mishra-ba4325214" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juber-shaikh-25482a176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juber Shaikh" height="30" width="40" /></a>
 </p>
 <br />
 
@@ -111,19 +110,19 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/ShravaniMishra/github-readme-stats"><img alt="ShravaniMishra Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniMishra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Jubershaikh2307/github-readme-stats"><img alt="Jubershaikh2307 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniMishra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
-    <a href="https://github.com/ShravaniMishra/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShravaniMishra streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShravaniMishra&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    <a href="https://github.com/Jubershaikh2307/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jubershaikh2307 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jubershaikh2307&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>                                                                                                                                              
 
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/ShravaniMishra/github-readme-stats"><img alt="ShravaniMishra Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShravaniMishra&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="ShravaniMishra" /></a>
+    <a href="https://github.com/Jubershaikh2307/github-readme-stats"><img alt="Jubershaikh2307 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jubershaikh2307&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="ShravaniMishra" /></a>
     </p>                                                                 
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
@@ -131,7 +130,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ShravaniMishra/github-readme-activity-graph"><img alt="Shravani Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShravaniMishra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Jubershaikh2307/github-readme-activity-graph"><img alt="Jubershaikh2307 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jubershaikh2307&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
