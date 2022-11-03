@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning Frontend
 
-- 📄 Check out my [Resume]
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1MrdIF9x3xdriQ54jcwmAIctjvafLfjXs/view?usp=sharing)
 
 - 💻 Know more about me [Portfolio](https://jubershaikh2307.github.io/)
 
