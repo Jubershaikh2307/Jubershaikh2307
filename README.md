@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-4375641-3645911.mp4" width="40%" height="20%"/>
+  <video src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-4375641-3645911.mp4" width="40%" height="20%" autoplay="autoplay" muted="muted" loop="loop" playsinlinetype="video/mp4" />
 </div>
 
 
