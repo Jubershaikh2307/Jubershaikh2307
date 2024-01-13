@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1705017600&semt=sph" width="100%" height="20%" style="object-fit: cover;" />
+  <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1705017600&semt=sph" width="100%" height="200px" style="object-fit: cover;" />
 </div>
 
 
