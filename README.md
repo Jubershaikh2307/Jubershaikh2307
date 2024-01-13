@@ -1,6 +1,6 @@
 <div align="center">
   
-  <video src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-4375641-3645911.mp4" width="40%" height="20%" autoplay="autoplay" muted="muted" loop="loop" playsinlinetype="video/mp4" />
+  <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1705017600&semt=sph" width="40%" height="20%" />
 </div>
 
 
